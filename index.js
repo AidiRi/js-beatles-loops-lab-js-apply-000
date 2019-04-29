@@ -10,5 +10,5 @@ function theBeatlesPlay(){
 }
 
 function johnLennonFacts(){
-  
+  while()
 }
