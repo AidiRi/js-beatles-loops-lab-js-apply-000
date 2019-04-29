@@ -10,7 +10,7 @@ function theBeatlesPlay(){
 }
 
 function johnLennonFacts(){
-  while(i < facts.length){
+  while(var i < facts.length){
     facts[i] + "!!!"; 
     i++
   }
