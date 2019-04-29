@@ -18,15 +18,13 @@ function johnLennonFacts(facts){
   return facts;
 }
 
-function iLoveTheBeatles(){
+function iLoveTheBeatles(num){
   var array = [];
-  
   var i = 0;
-
   do {
     i = i + 1;
     result = result + i;
-}   while (i < 5);
+  }   while (num < 15);
 
   console.log(result);
 }
