@@ -8,3 +8,7 @@ function theBeatlesPlay(){
   }
   return beatlesArr;
 }
+
+function johnLennonFacts(){
+  
+}
