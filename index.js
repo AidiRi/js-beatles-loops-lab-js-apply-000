@@ -2,5 +2,5 @@
 function theBealelsPlay(){
   var musicians= [];
   var instruments=[];
-  var
+  var array
 }
